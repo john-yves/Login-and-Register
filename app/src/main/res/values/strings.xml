@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Last</string>
+    <string name="student">Student</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">enter password</string>
+    <string name="sign">sign</string>
+    <string name="Register">register</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="regi">regi</string>
+    <string name="enter_password">enter password</string>
+    <string name="success">success</string>
+</resources>
